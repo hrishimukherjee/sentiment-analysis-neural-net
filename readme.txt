@@ -1,3 +1,5 @@
+** RUNNING THE PROJECT **
+
 This project requires minimal setup to run.
 
 ASSUMPTIONS
