@@ -1,4 +1,6 @@
 # Sentiment Analysis Neural Network
+**Authors:** Hrishi Mukherjee, Jonathan Austin
+
 A Convolutional Neural Network trained and tested on a dataset of Rotten Tomatoes movie reviews. 
 The movie reviews are classified into one of five categories: very negative, negative, neutral, positive, very positive.
 
